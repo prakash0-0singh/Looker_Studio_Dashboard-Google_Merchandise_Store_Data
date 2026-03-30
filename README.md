@@ -6,7 +6,7 @@ This project focuses on building an interactive **Looker Studio dashboard** usin
 
 The dashboard was designed to break down the customer journey across **TOFU (Top of Funnel), MOFU (Middle of Funnel), and BOFU (Bottom of Funnel)** stages, helping identify where users enter, engage, and drop off before conversion. Through this analysis, the project uncovered **$387K in Q1 2025 sales**, revealed a strong **47.9% dependence on direct traffic**, and showed that **72.3% of revenue was concentrated within a limited acquisition mix**. It also highlighted a **0.06% conversion gap**, pointing to opportunities for optimisation in the checkout and conversion process.
 
-In addition, funnel segmentation helped trace the movement from **product views (100%) to cart additions (18.5%)**, while also identifying **6,497 engaged sessions with checkout abandonment**, giving clear direction for marketing and execution planning. :contentReference[oaicite:0]{index=0}
+In addition, funnel segmentation helped trace the movement from **product views (100%) to cart additions (18.5%)**, while also identifying **6,497 engaged sessions with checkout abandonment**, giving clear direction for marketing and execution planning.
 
 [Live Interact with Dashboard on](https://lookerstudio.google.com/u/0/reporting/9e776b9e-1550-4580-bfd5-489295ee0e32/page/zg4TF)
 
